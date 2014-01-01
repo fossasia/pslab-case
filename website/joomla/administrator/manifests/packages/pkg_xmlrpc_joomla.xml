@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="package" method="upgrade">
+	<name>xmlrpc joomla</name>
+	<packagename>xmlrpc joomla</packagename>
+	<author>Yoshiki Kozaki</author>
+	<authorEmail>info@joomler.net</authorEmail>
+	<authorUrl>http://www.joomler.net/</authorUrl>
+	<packager>Yoshiki Kozaki</packager>
+	<packagerurl>http://www.joomler.net/</packagerurl>
+	<creationDate>Oct 2012</creationDate>
+	<copyright>Copyright (C) 2007 - 2012 Yoshiki Kozaki All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<version>2.0.0</version>
+	<description></description>
+	<files>
+			<file id="com_xmlrpc" type="component" client="admin">com_xmlrpc.tar.gz</file>
+	<file id="joomla" type="plugin" client="site">plg_xmlrpc_joomla.tar.gz</file>
+	<file id="rsd" type="plugin" client="site">plg_system_rsd.tar.gz</file>
+	</files>
+</extension>

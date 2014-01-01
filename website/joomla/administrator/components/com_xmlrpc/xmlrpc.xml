@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="3.0" method="upgrade">
+	<name>com_xmlrpc</name>
+	<creationDate>May 2013</creationDate>
+	<author>Yoshiki Kozaki</author>
+	<authorEmail>info@joomler.net</authorEmail>
+	<authorUrl>http://www.joomler.net</authorUrl>
+	<copyright>(C) 2007 - 2013 Yoshiki Kozaki</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<version>2.0.6</version>
+	<description>COM_XMLRPC_DESCRIPTION</description>
+	<files folder="frontend">
+		<filename>index.html</filename>
+		<filename>xmlrpc.php</filename>
+		<filename>controller.php</filename>
+		<filename>router.php</filename>
+		<folder>models</folder>
+		<folder>helpers</folder>
+		<folder>libraries</folder>
+		<folder>views</folder>
+	</files>
+	<languages folder="languages">
+		<language tag="en-GB">languages-frontend/en-GB.com_xmlrpc.ini</language>
+		<language tag="ja-JP">languages-frontend/ja-JP.com_xmlrpc.ini</language>
+<!--		<language tag="ja-JU">languages-frontend/ja-JU.com_xmlrpc.ini</language>-->
+	</languages>
+	<administration>
+		<menu img="components/com_xmlrpc/assets/images/xmlrpc16.png">XMLRPC</menu>
+		<files folder="backend">
+			<filename>access.xml</filename>
+			<filename>index.html</filename>
+			<filename>config.xml</filename>
+			<filename>controller.php</filename>
+			<filename>xmlrpc.php</filename>
+			<folder>views</folder>
+			<folder>assets</folder>
+			<folder>elements</folder>
+			<folder>helpers</folder>
+		</files>
+		<languages folder="languages">
+			<language tag="en-GB">languages-backend/en-GB.com_xmlrpc.ini</language>
+			<language tag="en-GB">languages-backend/en-GB.com_xmlrpc.sys.ini</language>
+			<language tag="ja-JP">languages-backend/ja-JP.com_xmlrpc.ini</language>
+			<language tag="ja-JP">languages-backend/ja-JP.com_xmlrpc.sys.ini</language>
+<!--			<language tag="ja-JU">languages-backend/ja-JU.com_xmlrpc.ini</language>
+			<language tag="ja-JU">languages-backend/ja-JU.com_xmlrpc.sys.ini</language>-->
+		</languages>
+	</administration>
+
+</extension>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<access component="com_xmlrpc">
+	<section name="component">
+		<action name="core.edit" title="COM_XMLRPC_ACTION_CHANGEAUTHOR" description="COM_XMLRPC_ACTION_CHANGEAUTHOR_DESC" />
+	</section>
+</access>

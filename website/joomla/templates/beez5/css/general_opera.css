@@ -1,0 +1,13 @@
+#login-form .inputbox,
+.registration input,
+.profile-edit input,
+#login-form .inputbox,
+.contact .inputbox,
+.login-fields input,
+.remind input,
+.reset input,
+.search .inputbox,
+.finder .inputbox
+{
+        border-radius:4px;
+}
