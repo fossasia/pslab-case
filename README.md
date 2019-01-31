@@ -1,5 +1,7 @@
 # PSLab Case
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/pslabio.svg?style=social&label=Follow&maxAge=2592000?style=flat-square)](https://twitter.com/pslabio)
+
 This repository stores PSLab cases. It is intended to share lasercut designs for Pocket Science Lab.
 
 ## Lasercut Case
