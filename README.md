@@ -8,6 +8,16 @@ This repository stores PSLab cases. It is intended to share lasercut designs for
 
 The goal of PSLab is to create an Open Source hardware device (open on all layers) and software applications that can be used for experiments by teachers, students and scientists. Our tiny pocket lab provides an array of instruments for doing science and engineering experiments. It provides functions of numerous measurement tools including an oscilloscope, a waveform generator, a frequency counter, a programmable voltage, current source and even a component to control robots with up to four servos. Our website is at: https://pslab.io
 
+## Buy
+
+* You can get a Pocket Science Lab device from the [FOSSASIA Shop](https://fossasia.com).
+* More resellers are listed on the [PSLab website](https://pslab.io/shop/).
+
+## Communication
+
+* The PSLab [chat channel is on Gitter](https://gitter.im/fossasia/pslab).
+* Please also join us on the [PSLab Mailing List](https://groups.google.com/forum/#!forum/pslab-fossasia).
+
 ## Lasercut Case
 
 The lasercut case requires the following:
